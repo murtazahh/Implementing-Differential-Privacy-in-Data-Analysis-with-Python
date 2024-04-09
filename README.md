@@ -4,3 +4,5 @@ This project delves into the pivotal concept of protecting privacy in data analy
 
 # Introduction
 With the exponential growth in data analysis, the imperative to protect individual privacy has never been greater. This documentation introduces differential privacy as a mathematical safeguard for personal data, addressing its significance, practical applications, and implementation in Python. It provides a foundation for understanding how differential privacy operates to balance insight extraction and privacy preservation.
+
+# To obtain the dataset, please reach out via email to contact at callmemurtazah@gmail.com.
